@@ -6,10 +6,10 @@
 
 ///////////////////////////////////////////////////
 //      
-//     Funtion name :    Divide
-//     Description  :    Divide two Number 
-//     Input        :    Integer
-//     Output       :    Integer
+//     Funtion name :    Display
+//     Description  :    Display 5 times
+//     Input        :    No
+//     Output       :    print 5 times 
 //     Author       :    Tanisha Pramod Khandre
 //     Date         :    20/10/2026
 // 
