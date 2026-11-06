@@ -1,7 +1,7 @@
 /*
     input :
     row = 4
-    col = 5
+    col = 4
 
    1    2   3   4   
    5    6   7   8   
