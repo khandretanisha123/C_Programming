@@ -28,13 +28,15 @@
 
 void Pattern( int iRows , int iCols)
 {
-    int i ,j = 0 ;
+    int i ,j ,iCount = 0 ;
+
+    iCount = 2 + iCols ;
 
     for(i = 1 ; i <= iRows ; i ++)
     {
         for( j = 1 ; j <= iCols ; j++)
         {
-            if((i+j) >= 6)
+            if((i+j) >= iCount)
             {
                 printf("#\t");
             }
