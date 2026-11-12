@@ -17,20 +17,19 @@
 int LastChar(char *str , char Ch)
 {
     int index = 0 ;
+    int iRet = -1 ;
 
     while (*str != '\0')
     {
         if(*str == Ch)
         {
-            
-        }
-        else
-        {
-            return -1 ;
+            iRet = index ;
         }
         str++;
         index++ ;
     }
+
+    return iRet ;
 }
 int main()
 {
