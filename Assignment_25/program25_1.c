@@ -9,7 +9,7 @@
 //     Funtion name :     ChkAlpha(Check Alphabet)
 //     Description  :    check input is alphabet or not
 //     Input        :    Character
-//     Output       :    Integer
+//     Output       :    Boolean
 //     Author       :    Tanisha Pramod Khandre
 //     Date         :    12/11/2026
 // 
